@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rejeso.github.io/GxQ/sitemap.GxQ.gz
